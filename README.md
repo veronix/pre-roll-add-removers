@@ -11,5 +11,5 @@ These are 2 add removers written in js to be used with ts.kg and oc.kg.
 
 Install [GreaseMonkey](https://www.greasespot.net/) for Mozilla Firefox.
 
-2. Use [*oc.js*](https://github.com/veronix/pre-roll-add-removers/blob/master/oc.js) and/or *[ts.js*](https://github.com/veronix/pre-roll-add-removers/blob/master/ts.js) as the scripts for removing ads on oc.kg and ts.kg respectively.
+2. Use [oc.js](https://github.com/veronix/pre-roll-add-removers/blob/61c9f9bfd02a86d8b3f3d040003c15fb226bf954/oc.js) and/or [ts.js](https://github.com/veronix/pre-roll-add-removers/blob/6bd615516e5c6aef7ca4df9cb90050ec87bd08d3/ts.js) as the scripts for removing ads on oc.kg and ts.kg respectively.
 
