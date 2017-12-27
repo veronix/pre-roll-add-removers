@@ -13,4 +13,4 @@ These are 2 add removers written in js to be used with ts.kg and oc.kg.
 
 ---
 
-note: some credit is due to twitter users wesbos and dany_galt for idea/code snippet
+note: some credit is due to twitter users wesbos and danny_galt for idea/code snippet
